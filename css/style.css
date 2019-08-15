@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+}
+
+.historicalHeader {
+    background-color: #27AE60;
+    color: whitesmoke;
+}
+
+.jumbotron {
+    margin-top: 10px;
+    background-color: lightblue;
+}
+
+.message{
+    margin-top:10px;
+    font-weight: 500;
+    font-size: 2em;
+    padding:8px;
+    background-color: goldenrod;
+    color: black;
+}
